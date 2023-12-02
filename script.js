@@ -28,8 +28,6 @@
     imageObjects[11].src = 'https://d13k13wj6adfdf.cloudfront.net/urban_areas/rio-de-janeiro_web-600ed3659c.jpg'; //Rio De Janeiro
 
 
-//import imageObjects from './imageObjects.js';
-
     const apiKey = "5e992c389dc743c3a0d61343231611"; // Update with your key (and do not upload onto github)
     // const loadWeatherBtn = document.getElementById("load-weather");
     // const weatherEl = document.getElementById("weatherVisual");
